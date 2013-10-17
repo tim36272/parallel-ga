@@ -1,0 +1,6 @@
+150 	length
+50 		pop_size
+1500 		max_gens
+0.088 	prob_cross
+0.001 	prob_mut
+ofile
